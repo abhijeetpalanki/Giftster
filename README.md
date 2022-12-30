@@ -1,1 +1,1 @@
-Visit Here - https://abhijeetpalanki-giftster.netlify.app/
+Visit Here - https://giftster-abhijeetpalanki.vercel.app/
